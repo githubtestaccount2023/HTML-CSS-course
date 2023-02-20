@@ -1,0 +1,22 @@
+p {
+  font-family: arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  }
+
+  .title {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+    .address-one {
+      color:grey;
+    }
+  
+  .body-text {
+    width: 500px;
+    margin-bottom: 25px;
+  }
+
+    .address-two {
+      color: rgb(108, 108, 207);
+    }

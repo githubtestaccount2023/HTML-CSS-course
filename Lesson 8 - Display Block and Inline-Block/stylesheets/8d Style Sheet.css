@@ -1,0 +1,39 @@
+.first-name,
+.last-name {
+  display: inline-block;
+  width: 100px;
+  border-width: 1px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 50px;
+  border-color: grey;
+  border-radius: 20px;
+  margin-bottom: 10px; 
+}
+
+.email {
+  display: block;
+  width: 265px;
+  border-width: 1px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 50px;
+  border-color: grey;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+
+button {
+  border:none;
+  border-radius: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 100px;
+  padding-right: 100px;
+  color:white;
+  background-color: rgb(29, 29, 240);
+  font-weight: bold;
+  cursor: pointer;
+}

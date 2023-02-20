@@ -1,0 +1,14 @@
+.flexbox {
+display:flex;
+flex-direction:row;
+}
+
+.column-One {
+background-color:lightblue;
+width:200px;
+}
+
+.column-Two {
+background-color:lightpink;
+width:75px;
+}

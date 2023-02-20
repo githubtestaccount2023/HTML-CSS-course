@@ -1,0 +1,44 @@
+.amazon-link {
+  color: rgb(0, 113, 133);
+  font-size: 24px;
+  font-weight:
+}
+
+.Nike-Black-Running-Shoes {
+  color: black;
+  font-size: 36px;
+  font-weight: bold; 
+}
+
+.in-Stock {
+  color: green;
+  font-weight: bold;
+  font-size: 24px
+}
+
+.Free-delivery-tommorrow {
+  color: black;
+  font-size: 22px;
+}
+
+.Add-to-Cart {
+  background-color: rgb(255, 216, 20);
+  height: 40px;
+  width: 150px;
+  border: none;
+  border-radius: 25px;
+  font-size: 18px;
+  margin-right: 12px;
+  margin-left: 8px;
+  cursor: pointer;
+}
+
+.Buy-now {
+  background-color: rgb(255, 164, 28);
+  height: 40px;
+  width: 150px;
+  border: none;
+  border-radius: 25px;
+  font-size: 18px;
+  cursor: pointer;
+}

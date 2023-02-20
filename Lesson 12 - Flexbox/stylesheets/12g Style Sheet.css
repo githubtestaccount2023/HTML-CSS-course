@@ -1,0 +1,50 @@
+p {
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.profile-picture {
+  width: 50x;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+  margin-right:15px;
+}
+
+.info {
+  width: 200px; 
+}
+
+.name {
+  font-weight: bold;
+  margin-bottom: 3px;
+}
+
+.description {
+  color: rgb(200,200,200);
+}
+
+.status {
+  color: rgb(200,200,200);
+}
+
+button {
+  border-style: solid;
+  border-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 12px;
+  padding-right: 12px;
+  background-color: rgb(137, 137, 218);
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+} 

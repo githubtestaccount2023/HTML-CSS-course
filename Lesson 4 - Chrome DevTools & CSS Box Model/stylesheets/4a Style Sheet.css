@@ -1,0 +1,49 @@
+.back {
+  border-width: 1px;
+  border-radius: 3px;
+  border-style: solid;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-right: 10px;
+  color: black;
+  background-color: rgb(205, 205, 252);
+  border-color: black;
+  cursor: pointer;
+}
+
+.Next {
+  border-width: 1px;
+  border-radius: 3px;
+  border-style: solid;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-left: 10px;
+  color: black;
+  background-color: rgb(205, 205, 252);
+  border-color: black;
+  cursor: pointer;
+}
+ 
+.one {
+  margin-right:5px
+ }
+
+ .two {
+  margin-right:5px
+}
+
+.three {
+  margin-right:5px
+}
+
+.four {
+  margin-right:5px
+}
+
+.five {
+  margin-right:5px
+}

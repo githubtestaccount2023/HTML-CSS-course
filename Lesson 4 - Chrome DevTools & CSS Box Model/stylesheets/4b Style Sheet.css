@@ -1,0 +1,19 @@
+.Stretch {
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 12px;
+    padding-right: 12px;
+    font-size: 18px;
+    color: white;
+    background-color: green;
+    transition: padding-top 1s, padding-bottom 1s,
+                padding-left 1s, padding-right 1s;
+    cursor: pointer;
+  }
+    .Stretch:hover {
+      padding-top: 20px;
+      padding-bottom: 20px;
+      padding-left: 48px;
+      padding-right: 48px; 
+    }

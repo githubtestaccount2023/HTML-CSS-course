@@ -1,0 +1,35 @@
+.get-started {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: none;
+  border-radius: 4px;
+  background-color: rgb(129, 62, 160);
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.45s;
+}
+  .get-started:hover{
+    background-color: rgb(104, 35, 136); 
+  }
+
+  .download {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 4px;
+    background-color: white;
+    color:  rgb(104, 35, 136);
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.45s;
+  }
+    .download:hover {
+      background-color: rgb(210, 165, 231);
+      color:white; 
+    }

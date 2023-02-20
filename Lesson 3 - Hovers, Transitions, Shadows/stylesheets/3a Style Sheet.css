@@ -1,0 +1,82 @@
+.Get-started {
+  color: white;
+  background-color: rgb(139, 48, 192);
+  font-weight: bold;
+  height: 40px;
+  width: 110px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 1s;
+}
+  .Get-started:hover {
+    background-color:rgb(123, 102, 136)
+}
+  .Get-started:active {
+    opacity:0.5;
+}
+
+.download {
+  color:rgb(216, 122, 196);
+  font-weight: bold;
+  background-color: white;
+  border-color:rgb(216, 122, 196);
+  border-radius: 5px;
+  border-style:solid;
+  border-width: 1px;
+  height: 40px;
+  width: 100px;
+  cursor: pointer;
+  transition: color 1s, background-color 1s;
+}
+    .download:hover {
+        color: white; 
+        background-color: rgb(151, 143, 173);
+        border-color: rgb(151, 143, 173);
+    }
+    .download:active {
+        opacity: 0.5;
+    }
+
+.Apply {
+  color: white;
+  font-weight: bold;
+  background-color: rgb(66, 66, 238);
+  border-style:solid;
+  height: 35px;
+  border-width:1px;
+  border-radius: 20px;
+  border-color:rgb(66, 66, 238);
+  height: 35px;
+  width:200px;
+  cursor: pointer;
+  transition: color 1s, background-color 1s;
+}
+  .Apply:hover {
+      background-color:blue;
+    }
+  .Apply:active {
+      opacity: 0.5;
+    }
+
+.Save {
+  color:rgb(56, 56, 247);
+  background-color: white;
+  border-color:rgb(56, 56, 247);
+  font-weight: bold;
+  border-style: solid;
+  border-width: 1px;
+  height: 35px;
+  width: 65px;
+  border-radius: 20px;
+  box-shadow: 3px 3px 25px red;
+  transition: color 1s, background-color 1s, 
+              border-color 1s, box-shadow 1s;
+  cursor: pointer;
+}
+  .Save:hover {
+    color:rgb(3, 3, 83);
+    border-color:rgb(3, 3, 83);
+    border-width: 3px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 1);
+    }

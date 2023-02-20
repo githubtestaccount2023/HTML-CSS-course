@@ -1,0 +1,36 @@
+p {
+  color:grey;
+  font-size: 12px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.email {
+  margin-bottom: 5px;
+}
+
+.search-box {
+  margin-bottom: 15px;
+  width: 260px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color:black;
+  border-width: thin;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.legal {
+  margin-bottom: 10px;
+}
+
+.agree-join {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 100px;
+  padding-right: 100px;
+  border-radius:35px;
+  background-color: rgb(44, 44, 253);
+  color: white;
+  font-size: 16px
+}

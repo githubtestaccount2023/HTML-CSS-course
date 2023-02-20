@@ -1,0 +1,44 @@
+.link {
+  cursor: pointer;
+  transition: color 0.45s;
+}
+  .link:hover {
+  color: rgb(218, 80, 80);
+}
+.listing-heading {
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.item-info {
+  color: rgb(0, 118, 0);
+  font-weight: bold;
+}
+
+.add-to-cart {
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 22px;
+  padding-right: 22px;
+  border-width: 1px;
+  border-radius: 25px;
+  background-color: rgb(255, 216, 20);
+  cursor: pointer;
+}
+  .add-to-cart:active {
+    opacity: 0.5;
+  }
+
+.buy-now {
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 22px;
+  padding-right: 22px;
+  border-width: 1px;
+  border-radius: 25px;
+  background-color: rgb(255, 164, 28);
+  cursor: pointer;
+}
+  .buy-now:active {
+  opacity: 0.5;
+}

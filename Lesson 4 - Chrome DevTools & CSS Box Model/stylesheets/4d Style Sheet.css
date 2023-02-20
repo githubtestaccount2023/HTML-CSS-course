@@ -1,0 +1,50 @@
+.One {
+  border: none;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 12px;
+  padding-right: 12px;
+  font-size: 18px;
+  color: white;
+  background-color: green;
+  margin-right: 15px;
+  cursor: pointer;
+ }
+   .One:hover {
+     padding-left: 24px;
+     padding-right: 24px; 
+   }
+  
+   .Two {
+  border: none;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 12px;
+  padding-right: 12px;
+  font-size: 18px;
+  color: white;
+  background-color: green;
+  margin-right: 15px;
+  cursor: pointer;
+ }
+   .Two:hover {
+     padding-left: 24px;
+     padding-right: 24px; 
+   }
+  
+   .Three {
+  border: none;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 12px;
+  padding-right: 12px;
+  font-size: 18px;
+  color: white;
+  background-color: green;
+  margin-right: 15px;
+  cursor: pointer;
+ }
+   .Three:hover {
+     padding-left: 24px;
+     padding-right: 24px; 
+   }

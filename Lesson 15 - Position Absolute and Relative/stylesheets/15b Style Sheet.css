@@ -1,0 +1,8 @@
+.square {
+  position: fixed;
+  width: 320px;
+  height: 180px;
+  right: 20px;
+  bottom: 20px;
+  background-color: rgb(200, 145, 170);
+}

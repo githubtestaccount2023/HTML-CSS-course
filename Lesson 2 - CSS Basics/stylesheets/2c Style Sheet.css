@@ -1,0 +1,26 @@
+.Apply-on-company-website {
+    background-color: rgb(10, 102, 194);
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    height: 35px;
+    width: 220px;
+    border: none;
+    border-radius: 35px;
+    margin-right: 8px;
+    cursor: pointer;
+  }
+
+  .Save {
+    background-color: white;
+    color:rgb(10, 102, 194);
+    font-size: 15px;
+    font-weight: bold;
+    border-color:rgb(10, 102, 194);
+    border-radius: 35px;
+    border-width: 1px;
+    border-style: soild;
+    height: 35px;
+    width: 70px;
+    cursor: pointer; 
+  }

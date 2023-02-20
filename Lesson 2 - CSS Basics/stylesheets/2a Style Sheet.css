@@ -1,0 +1,29 @@
+  .Request-now {
+    background-color: black;
+    color: white;
+    border-radius: none;
+    height: 40px;
+    width: 105px;
+    margin-right: 8px;
+    cursor: pointer;
+    }
+
+  .Add-to-Cart {
+    background-color: rgb(255, 216, 20);
+    height: 30px;
+    width: 155px;
+    border: none;
+    border-radius: 20px;
+    margin-right: 8px;
+    cursor: pointer;
+    }
+  
+    .Sign-up {
+        background-color: rgb(46, 164, 79);
+        color: white;
+        height: 36px;
+        width: 80px;
+        border: none;
+        border-radius: 6px;
+        cursor: pointer;
+    }

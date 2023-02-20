@@ -1,0 +1,25 @@
+p {
+  font-family: arial;
+ }
+ 
+ .card {
+    border-width: 1px;
+    border-style: solid;
+    border-color:grey;
+    width: 400px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: rgb(68, 66, 66); 
+  }
+
+  .heading-text {
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+    margin-bottom:5px;
+  }
+  
+  .body-text {
+    color:grey;
+    font-weight: bold;
+  }
